@@ -1,0 +1,6 @@
+a. WHY this project was chosen (what use case does it solve)
+=> I chose this project because I am totally aware of the parallax website and when I visited their website I become curious and may want to make a parallax website for anime 
+b. HOW did you make the project (Tech Stack, Database, APIs)
+=> only use of css and html
+c. WHAT features, technical things you had implemented
+=> it's normal parallax website
