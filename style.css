@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: black;
+    color:white;
+}
+.pone{
+    width: 100%;
+    height:600px;
+    background-image: url(aot.png);
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.pone h3{
+    position: relative;
+    top:50%;
+    left:45%;
+    width: 150px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ptwo{
+    width: 100%;
+    height:600px;
+    background-image: url(mushishi.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.ptwo h3{
+    position: relative;
+    top:50%;
+    left:45%;
+    width: 150px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pthree{
+    width: 100%;
+    height:600px;
+    background-image: url(opm2.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.pthree h3{
+    position: relative;
+    top:50%;
+    left:45%;
+    width: 175px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pfour{
+    width: 100%;
+    height:600px;
+    background-image: url(gof.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.pfour h3{
+    position: relative;
+    top:50%;
+    left:30%;
+    width: 230px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pfive {
+    width: 100%;
+    height:600px;
+    background-image: url(jojo.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.pfive h3{
+    position: relative;
+    top:55%;
+    left:45%;
+    width: 250px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para {
+    font-size: larger;
+    text-align: justify;
+    font-size: bold;
+    margin: 20px;
+}
+.para b{
+    font-size: larger;
+}
+
+
+.p1 {
+    color:#FF00FF;
+}
+.p2 {
+    color:#00FFFF;
+}
+.p3 {
+    color:#FFFF00;
+}
+.p4{
+    color:#00FF00;
+}
+.p5 {
+    color:#FFCC66;
+}
